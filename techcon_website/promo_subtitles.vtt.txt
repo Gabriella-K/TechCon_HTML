@@ -1,0 +1,10 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.000
+Welcome to TechCon 2024!
+
+00:00:04.001 --> 00:00:08.000
+Join us for workshops, tech talks, and networking.
+
+00:00:08.001 --> 00:00:12.000
+Register today to be part of the future of technology.
